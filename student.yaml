@@ -1,0 +1,25 @@
+- name: revanth
+  lastname: g
+  email: gadepallicloud@gmail.com
+  address:
+  - type: perm
+    doorno: 143
+    street: gandhi nagar
+  - type: perm
+    doorno: 143
+    street: gandhi nagar
+
+  - name: revanth
+    lastname: g
+    email: gadepallicloud@gmail.com
+    address:
+    - type: current
+      doorno: 143
+      street: gandhi nagar
+    - type: current
+      doorno: 143
+      street: gandhi nagar
+  
+
+
+
